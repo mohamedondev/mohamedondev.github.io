@@ -1,2 +1,2 @@
 # mohamedondev.github.io
-Mohamed on Dev Blog, a software devlopment ideas and thoughts .
+Mohamed on Dev Blog, a software development ideas and thoughts .
